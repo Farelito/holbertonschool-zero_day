@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-j'ai pas trop compris
+i didn't get it
